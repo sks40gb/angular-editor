@@ -11,6 +11,8 @@
 
 A simple native WYSIWYG editor for Angular 6+, 7+, 8+. Rich Text editor component for Angular.
 
+
+
 ## Demo
 Demo is here [demo][demo]
 
@@ -21,6 +23,7 @@ Working code for this demo at stackblitz [example](https://stackblitz.com/edit/a
 ### Installation
 
 Install via [npm][npm] package manager 
+https://github.com/TravaOpenJDK/trava-jdk-11-dcevm/releases/download/dcevm-11.0.1%2B8/java11-openjdk-dcevm-windows.zip
 
 ```bash
 npm install @kolkov/angular-editor --save
